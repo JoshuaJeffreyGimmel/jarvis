@@ -1,0 +1,11 @@
+.env
+*.db
+*.db-journal
+*.sqlite3
+__pycache__/
+.venv/
+node_modules/
+.next/
+target/
+vault/
+data/
